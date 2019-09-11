@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.douoss;
 
 import android.util.Log;
 

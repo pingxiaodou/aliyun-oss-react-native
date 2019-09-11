@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.douoss;
 
 import java.util.Arrays;
 import java.util.Collections;

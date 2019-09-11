@@ -1,4 +1,4 @@
-package com.reactlibrary.utils;
+package com.douoss.utils;
 
 import com.alibaba.sdk.android.oss.ClientConfiguration;
 import com.facebook.react.bridge.ReadableMap;
